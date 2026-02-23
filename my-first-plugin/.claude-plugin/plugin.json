@@ -3,6 +3,6 @@
   "description": "Full-featured learning plugin with skills, hooks, agents, and MCP server",
   "version": "2.0.0",
   "author": { "name": "learner" },
-  "repository": "https://github.com/example/my-first-plugin",
+  "repository": "https://github.com/HaseebAhmed-official/my-plugin-marketplace",
   "license": "MIT"
 }
