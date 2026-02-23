@@ -1,0 +1,13 @@
+{
+  "name": "my-plugin-marketplace",
+  "description": "Personal plugin marketplace for learning and experimentation",
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "description": "Learning plugin with skills, hooks, agents, and MCP server",
+      "path": "my-first-plugin",
+      "version": "1.0.0",
+      "tags": ["learning", "security", "code-analysis"]
+    }
+  ]
+}
