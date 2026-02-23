@@ -1,12 +1,20 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "my-plugin-marketplace",
   "description": "Personal plugin marketplace for learning and experimentation",
+  "owner": {
+    "name": "HaseebAhmed-official"
+  },
   "plugins": [
     {
       "name": "my-first-plugin",
       "description": "Learning plugin with skills, hooks, agents, and MCP server",
-      "path": "my-first-plugin",
-      "version": "1.0.0",
+      "version": "2.0.0",
+      "author": {
+        "name": "HaseebAhmed-official"
+      },
+      "source": "./my-first-plugin",
+      "category": "learning",
       "tags": ["learning", "security", "code-analysis"]
     }
   ]
